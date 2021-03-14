@@ -23,4 +23,4 @@ This is a sample project for building a TPMS monitor for Toyota/Lexus equipped s
 - https://github.com/xnk/pacific-tpms
 - https://github.com/merbanan/rtl_433/blob/master/src/devices/tpms_toyota.c
 
-## Project initailly forked from: https://raw.githubusercontent.com/c-logic/tpms_toyota but required changes to Heltec ESP32 pin outs and PlatformIO support.
+## Project initailly forked from: https://github.com/c-logic/tpms_toyota but required changes to Heltec ESP32 pin outs and PlatformIO support.
